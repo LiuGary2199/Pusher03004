@@ -15,7 +15,7 @@ public class ATaskPanel_B : LastUITruck
     
     // 四个任务：完成2、4、6、8关，每个奖励200金币
     private readonly int[] WakePetiole = { 50, 100, 200, 300 };
-    private readonly int WakeCustom= 200;
+    private readonly int WakeCustom= 1000;
 
     public override void Display()
     {

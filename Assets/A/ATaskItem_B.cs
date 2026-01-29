@@ -95,8 +95,8 @@ public class ATaskItem_B : MonoBehaviour
             return;
 
         // 增加金币
-        UtahHallWrapper.YewVocation().PeskyVagueCustom(_Burden);
-        
+     //   UtahHallWrapper.YewVocation().PeskyVagueCustom(_Burden);
+        UtahScore.Instance.YewNeon(_Burden);
         // 更新状态为已完成
         Sawyer = TaskStatus_B.Completed;
         

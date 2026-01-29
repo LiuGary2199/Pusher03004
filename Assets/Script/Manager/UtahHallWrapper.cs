@@ -197,7 +197,7 @@ public class UtahHallWrapper : MonoWeightily<UtahHallWrapper>
 
     // 四个计时器：5、10、15、20分钟
     private readonly int[] GourdHerculean = { 1, 10, 15, 20 }; // 每个计时器的分钟数
-    private readonly int GourdCustom = 200; // 每个奖励200金币
+    private readonly int GourdCustom = 1000; // 每个奖励200金币
     private float _RimeDefendFact = 0f; // 上次更新时间（Time.unscaledTime）
     private float _TransactionFact = 0f; // 累积的在线时长（秒）
     /// <summary>

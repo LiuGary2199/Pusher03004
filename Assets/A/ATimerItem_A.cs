@@ -101,8 +101,8 @@ public class ATimerItem_A : MonoBehaviour
             return;
         
         // 领取奖励
-        UtahHallWrapper.YewVocation().PeskyVagueCustom(_GourdIt);
-        
+     //   UtahHallWrapper.YewVocation().PeskyVagueCustom(_GourdIt);
+        UtahScore.Instance.YewNeon(_GourdIt);
         // 更新状态
         Sawyer = ATimerStatus_A.Completed;
         
