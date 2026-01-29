@@ -1,0 +1,48 @@
+
+lucky.png
+size: 2026,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_1
+  rotate: false
+  xy: 2, 159
+  size: 1095, 737
+  orig: 1095, 737
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: false
+  xy: 1099, 264
+  size: 925, 632
+  orig: 925, 632
+  offset: 0, 0
+  index: -1
+Lucky
+  rotate: false
+  xy: 2, 22
+  size: 627, 135
+  orig: 627, 135
+  offset: 0, 0
+  index: -1
+Lucky_2
+  rotate: false
+  xy: 1220, 132
+  size: 630, 130
+  orig: 630, 130
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 1220, 2
+  size: 583, 128
+  orig: 583, 128
+  offset: 0, 0
+  index: -1
+card_2
+  rotate: false
+  xy: 631, 26
+  size: 587, 131
+  orig: 587, 131
+  offset: 0, 0
+  index: -1

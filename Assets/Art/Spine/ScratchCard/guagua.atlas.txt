@@ -1,0 +1,34 @@
+
+guagua.png
+size: 1866,929
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LUCKEY
+  rotate: true
+  xy: 1733, 359
+  size: 568, 131
+  orig: 568, 131
+  offset: 0, 0
+  index: -1
+L_1
+  rotate: false
+  xy: 2, 190
+  size: 1095, 737
+  orig: 1095, 737
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: true
+  xy: 1099, 2
+  size: 925, 632
+  orig: 925, 632
+  offset: 0, 0
+  index: -1
+SCRATCH
+  rotate: false
+  xy: 2, 47
+  size: 782, 141
+  orig: 782, 141
+  offset: 0, 0
+  index: -1

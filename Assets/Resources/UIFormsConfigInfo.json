@@ -1,0 +1,79 @@
+{
+    "ConfigInfo": [
+        {
+            "Key": "\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"
+        },
+        {
+            "Key": "UtahScore",
+            "Value": "UIPanel\\UtahScore"
+        },
+        {
+            "Key": "TinVasKrillScore",
+            "Value": "UIPanel\\TinVasKrillScore"
+        },
+        {
+            "Key": "NonstopCaputScore",
+            "Value": "UIPanel\\NonstopCaputScore"
+        },
+        {
+            "Key": "PeskyDeedScore",
+            "Value": "UIPanel\\PeskyDeedScore"
+        },
+        {
+            "Key": "TiltCordKindScore",
+            "Value": "UIPanel\\TiltCordKindScore"
+        },
+        {
+            "Key": "TiltSunlitScore",
+            "Value": "UIPanel\\TiltSunlitScore"
+        },
+        {
+            "Key": "TiltCrabScore",
+            "Value": "UIPanel\\TiltCrabScore"
+        },
+        {
+            "Key": "DemiseVasKrillScore",
+            "Value": "UIPanel\\DemiseVasKrillScore"
+        },
+        {
+            "Key": "ExecuteDeedScore",
+            "Value": "UIPanel\\ExecuteDeedScore"
+        },
+        {
+            "Key": "UnclearScore",
+            "Value": "UIPanel\\UnclearScore"
+        },
+        {
+            "Key": "RubLoreUnclearScore",
+            "Value": "UIPanel\\RubLoreUnclearScore"
+        },
+        {
+            "Key": "Cedar",
+            "Value": "UIPanel\\Cedar"
+        },
+        {
+            "Key": "DivaAnScore",
+            "Value": "UIPanel\\DivaAnScore"
+        },
+        {
+            "Key": "CashOutPanel",
+            "Value": "UIPanel\\SuchWayScore"
+        },
+        {
+            "Key": "InsertSack",
+            "Value": "UIPanel\\InsertSack"
+        },
+        {
+            "Key": "ChangeCoin",
+            "Value": "UIPanel\\ChangeCoin"
+        },
+        {
+            "Key": "ATimerPanel_A",
+            "Value": "UIPanel\\ATimerPanel_A"
+        },
+        {
+            "Key": "ATaskPanel_B",
+            "Value": "UIPanel\\ATaskPanel_B"
+        }
+    ]
+}

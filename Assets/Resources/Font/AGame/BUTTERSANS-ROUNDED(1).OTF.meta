@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7af9084c9c4425a46b5dd530de7b2530
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - butter sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8c39d8cd4aed7e042801200a7428e7bf, type: 3}
+  - {fileID: 12800000, guid: c29736e4fae38e847af079e4c4d12d12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

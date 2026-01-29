@@ -1,0 +1,41 @@
+
+loading.png
+size: 1656,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 846, 2
+  size: 774, 499
+  orig: 774, 499
+  offset: 0, 0
+  index: -1
+CARNIUAL
+  rotate: false
+  xy: 2, 49
+  size: 599, 120
+  orig: 599, 120
+  offset: 0, 0
+  index: -1
+L_1
+  rotate: true
+  xy: 2, 171
+  size: 852, 570
+  orig: 852, 570
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: false
+  xy: 846, 503
+  size: 808, 520
+  orig: 808, 520
+  offset: 0, 0
+  index: -1
+Pusher
+  rotate: true
+  xy: 574, 198
+  size: 825, 270
+  orig: 825, 270
+  offset: 0, 0
+  index: -1
